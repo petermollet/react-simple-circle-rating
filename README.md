@@ -20,7 +20,7 @@ It's in fact a SVG with two circle (background static and the foreground being t
 
 I did it for a test project and to try <svg>. And also to try create a simple library for react. 
 
-![image-20210427160959886](.\example-photo.png)
+![image-20210427160959886](https://github.com/petermollet/react-simple-circle-rating/blob/main/example-photo.png?raw=true)
 
 
 
